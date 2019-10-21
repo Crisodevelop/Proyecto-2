@@ -7,7 +7,7 @@ Creacion de CSS 3D Cutout Card Hover Effect 100% completo...
     
 Css
     
- Editor de codigo
+#  Editor de codigo
  
  Vscode
     
